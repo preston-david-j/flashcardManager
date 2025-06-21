@@ -1,7 +1,7 @@
 public class Driver
 {
-    public static void Main(String args)
+    public static void main(String[] args)
     {
-
+        FileManager.InitFileManager();
     }
 }
